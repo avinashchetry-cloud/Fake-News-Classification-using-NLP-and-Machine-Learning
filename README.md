@@ -44,4 +44,4 @@ The dataset file is not included in this repository due to size limitations.
 
 ---
 
-## Project Workflow
+### The model is trained on a specific news dataset and may not generalize to all types of misinformation outside the training domain.
